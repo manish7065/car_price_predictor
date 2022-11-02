@@ -1,4 +1,7 @@
+Flask
 pandas
 numpy
 sklearn
 flask_cors
+gunicorn
+pickle
